@@ -1,2 +1,2 @@
-print("poop")
+print("bajs")
 input()
